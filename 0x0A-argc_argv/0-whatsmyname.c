@@ -2,7 +2,10 @@
 
 /**
 * Main- Prints program name
-* Return: success
+* @argc: number of command line argument
+* @argv: array that contains string command vector
+*
+* Return: 0
 */
 
 int main(int argc, char *argv[])

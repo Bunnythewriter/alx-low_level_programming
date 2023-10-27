@@ -4,7 +4,8 @@
  * Main- prints all arguments it receives
  * @argc: number of command line arguments
  * @argv: argument that contains vector string
- * Return: Success
+ * 
+ * Return: 0
 */
 
 int main(int argc, char *argv[])

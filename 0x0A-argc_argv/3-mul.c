@@ -5,6 +5,7 @@
  * main - multiplies two numbers.
  * @argc: number of command line argument
  * @argv: array that contains the string vector
+ * 
  * Return: 0
  */
 
