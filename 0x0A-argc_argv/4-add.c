@@ -6,7 +6,7 @@
  * main -adds positive numbers.
  * @argc: number of command line argument
  * @argv: array that contains string command vector
- * 
+ *
  * Return: 0
  */
 
